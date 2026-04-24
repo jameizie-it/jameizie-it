@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://linkedin.com/in/jameizie">Jameizie</a>, an aspiring Data Analyst building projects with SQL, POWER BI, and Python.</h1>
+<h1>Hi, I'm <a href="https://linkedin.com/in/jameizie">Jameizie</a>, an aspiring Data Analyst working with SQL, Power BI, and Python to build data-driven projects</h1>
 
 <h2>Notable Data Analyst Projects:</h2>
 
