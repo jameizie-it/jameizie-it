@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://linkedin.com/in/jameizie">Jameizie</a>, captivated by the endless possibilities of IT</h1>
+<h1>Hi, I'm <a href="https://linkedin.com/in/jameizie">Jameizie</a>, an aspiring Data Analyst | SQL • Excel • Power BI | Building projects in data analysis and business intelligence.</h1>
 
 <h2>Notable IT Projects:</h2>
 
