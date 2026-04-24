@@ -3,10 +3,10 @@
 <h2>Notable Data Analyst Projects:</h2>
 
 - <b>Retail Sales Dashboard (SQL + Power BI)</b>
-  - [Step-by-Step Guide: Creating a Virtual Machine in Azure and Setting Up osTicket](https://github.com/jameizie-it/Setting-Up-osTicket)
+  - [Retail Sales Performance Analysis](https://github.com/jameizie-it/Retail-Performance-Analysis)
   
 - <b>Sales Analysis (Excel)</b>
-  - [Setting Up Azure Resources, Active Directory, and User Accounts (Azure)](https://github.com/jameizie-it/Setting-Up-Azure-Active-Directory)
+  - [Excel Sales Performance & Profitability Analysis](https://github.com/jameizie-it/Excel-Sales-Performance-Analysis)
 
 <h2>Other Projects:</h2>
 
