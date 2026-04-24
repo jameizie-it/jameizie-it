@@ -8,7 +8,7 @@
 - <b>Sales Analysis (Excel)</b>
   - [Setting Up Azure Resources, Active Directory, and User Accounts (Azure)](https://github.com/jameizie-it/Setting-Up-Azure-Active-Directory)
 
-<h2>Other Projects (NOT DATA ANALYST):</h2>
+<h2>Other Projects:</h2>
 
 - <b>Non-Data Analyst Projects</b>
   - [jameizie-it.github.io](https://github.com/jameizie-it/jameizie-it.github.io)
